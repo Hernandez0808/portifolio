@@ -1,7 +1,7 @@
                     <!-- <div class="carrosel-item">
                         <div class="card">
                             <div class="card-body">
-                                <img src="imgs/projetos/pokedex.jpg" class="img-carrosel">
+                                <img src="/docs/imgs/projetos/pokedex.jpg" class="img-carrosel">
                                 <div class="content-acessar">
                                     <div class="nm_proje">
                                         <p>Pokedex - Angular</p>
