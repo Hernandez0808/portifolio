@@ -1,0 +1,21 @@
+
+.botao-voltar-ao-topo {
+  z-index: 5;
+  position: fixed;
+  bottom: 10px;
+  right: 25px;
+  background-color: var(--black);
+  border-radius: 50%;
+  transition: 0.3s;
+
+} 
+.botao-voltar-ao-topo:hover {
+  background-color: var(--shape);
+
+} 
+.botao-voltar-ao-topo p {
+color: white;
+  margin: 0;
+  padding: 1rem;
+cursor:pointer;
+}

@@ -1,0 +1,51 @@
+#formacao {
+  display: flex;
+  justify-content: center;
+}
+
+#formacao ul{
+  list-style: none;
+  background-color: var(--bg-card-formacao);
+  padding: 1.5rem;
+  border-radius: 5px;
+}
+#formacao ul li{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  margin-top: 0.7rem;
+  margin-bottom:1.3rem;
+}
+#formacao ul li::before{
+  content: "•";
+  position: absolute;
+  left: -1rem;
+  top: -1rem;
+  font-size: 3rem;
+  color: var(--primary);
+}
+#formacao ul li h3{
+  font-weight: normal;
+}
+#formacao ul li div{
+  max-width: 290px;
+  padding: 0.2rem;
+  background-color: var(--sub-formacao);
+  border-radius: 5px;
+}
+
+#formacao ul{
+  box-shadow: 10px 20px 10px rgba(0,0,0,.2); 
+}
+
+
+@media (max-width: 600px) {
+  #formacao ul li{
+    margin-top: 2rem;
+    margin-bottom:2rem;
+  }
+  #formacao h2{
+    text-align: center;
+  }
+}

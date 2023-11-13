@@ -1,0 +1,21 @@
+.link-contato{
+  color: var(--white);
+}
+
+.container-contato{
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  padding: 2rem;
+  background-color: var(--primary);
+  margin-top: 2rem;
+}
+
+.container-contato p {
+  margin-top: 1rem;
+}
+
+.container-contato .bi{
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}

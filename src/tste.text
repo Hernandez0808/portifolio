@@ -1,0 +1,26 @@
+                    <!-- <div class="carrosel-item">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="/dist/imgs/projetos/pokedex.jpg" class="img-carrosel">
+                                <div class="content-acessar">
+                                    <div class="nm_proje">
+                                        <p>Pokedex - Angular</p>
+                                    </div>
+                                    <a class="underline" href="https://hernandez0808.github.io/pokedex-angular" target="_blank">
+                                        <span class="material-icons">language</span> Visualizar
+                                    </a>
+                                    <div class="descrition_pag">
+                                        <p>Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="card-footer">
+                                <a class="link-icon" href="https://github.com/Hernandez0808/pokedex-angular" target="_blank" >
+                                    <i class="bi bi-github icon-github"></i>
+                                </a>
+                            </div>
+
+                            
+                        </div>
+                    </div> -->

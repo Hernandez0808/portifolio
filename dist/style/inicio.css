@@ -1,0 +1,49 @@
+#inicio{
+  margin: 2rem;
+}
+#inicio h2{
+  margin-left: 2rem;
+}
+#inicio ul li{
+  display: flex;
+  list-style-type: none;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+#inicio ul li p{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 0.3rem;
+}
+.img-fund-branco{
+  background-color: var(--white);
+  border-radius: 5px;
+}
+.competencia-icon{
+  object-fit: cover;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.content-resumo{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.resumo{
+  max-width: 300px;
+  margin-right: 1.5rem ;
+  margin-left: 1.5rem;
+  border-right: 2px solid black;
+}
+.resumo p {
+  margin-right: 1.5rem ;
+}
+
+@media (max-width: 624px) {
+  .resumo{
+      border: none;
+      border-bottom: 2px solid black;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1.5rem;
+  };
+}
