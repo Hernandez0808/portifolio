@@ -140,47 +140,19 @@ class Carousel {
         url_repositorio: 'https://github.com/Hernandez0808/termo-angular',
       },
       {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
+        nm_projeto: 'Chat em Grupo - Angular - Node.js',
+        descricao: 'Chat em grupo utlizando Angular no front e Node.JS no backend com websocket para transimissao de mensagem.',
+        caminho_img: 'imgs/projetos/chat_grupo.png',
         url_projeto_online: '',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
+        url_repositorio: 'https://github.com/Hernandez0808/chatGroupAngularNodeJs',
       },
       {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
-        url_projeto_online: 'https://hernandez0808.github.io/pokedex-angular',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
-      },
-      {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
-        url_projeto_online: 'https://hernandez0808.github.io/pokedex-angular',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
-      },
-      {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
-        url_projeto_online: 'https://hernandez0808.github.io/pokedex-angular',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
-      },
-      {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
-        url_projeto_online: 'https://hernandez0808.github.io/pokedex-angular',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
-      },
-      {
-        nm_projeto: 'Pkedex - Angular',
-        descricao: 'Pokedex feita em Angular, lidando com todas as informações vindas do back-end de forma dinâmica.',
-        caminho_img: 'imgs/projetos/pokedex.jpg',
-        url_projeto_online: 'https://hernandez0808.github.io/pokedex-angular',
-        url_repositorio: 'https://github.com/Hernandez0808/pokedex-angular',
-      },
+        nm_projeto: 'Encurtador de URL - Node.JS ',
+        descricao: 'Backend Node.JS para um encurtador de url persistindo a url original no mongoDB',
+        caminho_img: 'imgs/projetos/backend.jpg',
+        url_projeto_online: '',
+        url_repositorio: 'https://github.com/Hernandez0808/encurtadorUrlNodeMongo',
+      }
     ]
 
     return lstProjetos;
